@@ -1,5 +1,5 @@
-# React-Query-Movies-App
+# React-Movies-App
 
-🌎 Live demo: https://react-query-movies-app.netlify.app/
+ Live demo: https://react-query-movies-app.netlify.app/
 
 
